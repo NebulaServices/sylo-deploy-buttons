@@ -1,3 +1,3 @@
 # sylo-deploy-buttons
 
-[![sylo](https://github.com/NebulaServices/sylo-deploy-buttons/blob/main/3.png)
+[![Sylo](https://github.com/NebulaServices/sylo-deploy-buttons/blob/main/3.png)](https://sylodev.com/deploybutton/nebula)
